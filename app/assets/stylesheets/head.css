@@ -1,0 +1,11 @@
+h1, h2, h3, h4, h5, h6 {color: blue}
+form{color: seagreen}
+table{border-color: blue}
+a:link{color: green}
+
+body{
+	background-image: url("background.png");
+	background-repeat: no-repeat;
+	text-align: center;
+	color: blue;
+}
